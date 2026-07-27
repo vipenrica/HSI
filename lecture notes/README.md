@@ -4,4 +4,4 @@ L_01sm.pptx are the slides of lecture 1 without videos. Videos of this lecture a
 
 L_02.pptx are the slides of lecture 2, review of open channel flow hydraulics (steady and uniform flow only)
 
-L_03.pptx are the slides of lecture 3, overview on fluvial bedforms with some information on the class project. Videos for this lecture on bed level changes and dunes are from the e-book (https://hydrolab.illinois.edu/people/parkerg/e-videos.htm)
+L_03.pptx are the slides of lecture 3, overview on fluvial bedforms with some information on the class project. Videos for this lecture on bed level changes and dunes are from the e-book (https://hydrolab.illinois.edu/people/parkerg/e-videos.htm), all other videos are in the video folder of this repository
