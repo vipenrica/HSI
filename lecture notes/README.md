@@ -1,4 +1,4 @@
-in this folder you will find the power point presentations shown in class
+in this folder you will find the power point presentations shown in class and instructions on the class project (class_project.pptx)
 
 L_01sm.pptx are the slides of lecture 1 without videos. Videos of this lecture are rte-bookbedload (https://hydrolab.illinois.edu/people/parkerg/e-videos.htm) and SuspendedLoad. 
 
@@ -9,3 +9,5 @@ L_03.pptx are the slides of lecture 3, overview on fluvial bedforms with some in
 L_04.pptx are the slides of lectures 4 and 5 on the calculation of the bed shear stress, i.e. procedure for sidewall correction and Einstein decomposition
 
 L_05.pptx are the slides of lecture 6 on the initiation of particle motion
+
+L_06,pptx are slides on bedload transport and total (bulk) load relations
