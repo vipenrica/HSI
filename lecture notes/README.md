@@ -11,3 +11,5 @@ L_04.pptx are the slides of lectures 4 and 5 on the calculation of the bed shear
 L_05.pptx are the slides of lecture 6 on the initiation of particle motion
 
 L_06,pptx are slides on bedload transport and total (bulk) load relations
+
+L_07.pptx are slides on suspended bed material load with an example problem to compute uniform and size-specific bedload, suspended load and total load on the Congaree River in the National Park, SC
